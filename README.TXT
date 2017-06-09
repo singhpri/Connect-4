@@ -1,12 +1,3 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+In this version of popular game Connect-4, I have created the agent "MyAgent". This is the final project of object-oriented programming course offered by Udacity. I have learnt several fundamental data structures and object-oriented design concepts such as encapsulation, polymorphism in this course.
