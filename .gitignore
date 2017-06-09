@@ -1,6 +1,7 @@
 # Created by https://www.gitignore.io/api/java,gradle
 
 *.txt
+**/.DS_Store
 
 ### Java ###
 *.class
