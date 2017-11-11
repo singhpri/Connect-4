@@ -41,15 +41,15 @@ public class MyAgent extends Agent
       int j = theyCanWin();
       int k = randomMove();
       if (i != -1){
-        System.out.println("value of i " + i);
+        //System.out.println("value of i " + i);
         moveOnColumn(i);
       }
       else if(j != -1){
-        System.out.println("value of j " + j);
+        //System.out.println("value of j " + j);
         moveOnColumn(j);
       }
       else {
-        System.out.println("value of k " + k);
+        //System.out.println("value of k " + k);
         moveOnColumn(k);
       }
       }
